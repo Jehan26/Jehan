@@ -1,5 +1,5 @@
 <h1 align="center">Greetings Everyone Jehan B</h1>
-<h3 align="center">" Cybersecurity & AI Enthusiast | 🤖 OCR Innovator | Building Innovative Solutions" | Exploring Tech | IoT Innovator"</h3>
+<h3 align="center">" Cybersecurity & AI Enthusiast |  Building Innovative Solutions" | Exploring Tech | "</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jehan26&label=Profile%20views&color=0e75b6&style=flat" alt="jehan26" /> </p>
 

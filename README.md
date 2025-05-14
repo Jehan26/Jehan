@@ -19,7 +19,7 @@
 
 - Leveraging AI to accelerate **Drug Discovery by analyzing vast datasets and exploring drug combinations, reducing development time and improving success rates in pharmaceutical research**
 
-- Ask me about [Developing AI solutions, improving OCR systems, cybersecurity strategies, IoT innovations, drug discovery with AI, building portable health devices, or Java-based applications!"](Developing AI solutions, improving OCR systems, cybersecurity strategies, IoT innovations, drug discovery with AI, building portable health devices, or Java-based applications!")
+- Ask me about [Developing AI solutions, improving OCR systems, cybersecurity strategies, IoT innovations, drug discovery with AI, building portable health devices, or Java-based applications!"]
 
 - ⚡ Fun fact **I love merging technology and creativity, from building AI models for handwritten text recognition to tackling malnutrition with portable health devices!**
 
